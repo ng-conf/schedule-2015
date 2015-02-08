@@ -1,0 +1,265 @@
+[
+  {
+    "day": "Wednesday",
+    "items": [
+      {
+        "time": "9:00 AM",
+        "title": "Registration Opens"
+      },
+      {
+        "time": "10:00 AM",
+        "title": "Angular Beginning Workshop<br /> Angular Advanced Workshop",
+        "extra": true
+      },
+      {
+        "time": "12:00 PM",
+        "title": "Lunch for Angular &amp; Ionic Workshops",
+        "extra": true
+      },
+      {
+        "time": "1:00 PM",
+        "title": "Ionic Workshop",
+        "extra": true
+      },
+      {
+        "time": "4:00 PM",
+        "title": "Ionic Workshop Ends",
+        "extra": true
+      },
+      {
+        "time": "5:00 PM",
+        "title": "Angular Beginning Workshop Ends<br>Angular Advanced Workshop Ends",
+        "extra": true
+      },
+      {
+        "time": "7:00 PM",
+        "title": "Hacknight"
+      },
+      {
+        "time": "10:00 PM",
+        "title": "Hacknight Ends"
+      }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "items": [
+      {
+        "time": "7:00 AM",
+        "title": "Breakfast"
+      },
+      {
+        "time": "9:00 AM",
+        "title": "Keynote",
+        "author": "Brad Green &amp; Igor Minar"
+      },
+      {
+        "time": "9:45 AM",
+        "title": "Ionic + Angular: Superpowers for Mobile App Development",
+        "author": "Adam Bradley"
+      },
+      {
+        "time": "10:10 AM",
+        "title": "Angular 1.3 meets Angular 2.0",
+        "author": "Michal Golebiowski"
+      },
+      {
+        "time": "10:35 AM",
+        "title": "ngTasty",
+        "author": "Leonardo Zizzamia"
+      },
+      {
+        "time": "11:00 AM",
+        "title": "Accessibility Made Easy",
+        "author": "Julie"
+      },
+      {
+        "time": "11:25 AM",
+        "title": "Badges? We don't need no stinkin' badges!",
+        "author": "Lukas Ruebbelke &amp; Geoff Goodman"
+      },
+      {
+        "time": "11:50 AM",
+        "title": "Lunch"
+      },
+      {
+        "time": "1:20 PM",
+        "title": "State of 1.x",
+        "author": "Lucas + Pawel"
+      },
+      {
+        "time": "1:45 PM",
+        "title": "ng-wat?",
+        "author": "Shai Reznik"
+      },
+      {
+        "time": "1:53 PM",
+        "title": "Run digest cycle in web worker",
+        "author": "Dr. Gleb Bahmutov PhD."
+      },
+      {
+        "time": "2:01 PM",
+        "title": "?",
+        "author": "Googlers"
+      },
+      {
+        "time": "2:10 PM",
+        "title": "Angular Behind the Scenes",
+        "author": "Rodric Haddad"
+      },
+      {
+        "time": "2:35 PM",
+        "title": "Community Building How-To: Make More Angular Devs Now",
+        "author": "Judy Tuan"
+      },
+      {
+        "time": "3:00 PM",
+        "title": "Snack Break"
+      },
+      {
+        "time": "3:30 PM",
+        "title": "Reactive all the Things",
+        "author": "Ben Lesh &amp; Martin Gontovnikas"
+      },
+      {
+        "time": "3:55 PM",
+        "title": "Firebase",
+        "author": "James Tamplin"
+      },
+      {
+        "time": "4:20 PM",
+        "title": "Angular + React = Speed",
+        "author": "Dave Smith"
+      },
+      {
+        "time": "4:45 PM",
+        "title": "Building and sharing reusable components",
+        "author": "Jeremy &amp; Team"
+      },
+      {
+        "time": "5:10 PM",
+        "title": "?",
+        "author": "Googlers"
+      },
+      {
+        "time": "5:30 PM",
+        "title": "Dinnery &amp; Activities"
+      }
+    ]
+  },
+  {
+    "day": "Friday",
+    "items": [
+      {
+        "time": "7:00 AM",
+        "title": "Breakfast"
+      },
+      {
+        "time": "9:00 AM",
+        "title": "Keynote",
+        "author": "Naomi &amp; Angular Team"
+      },
+      {
+        "time": "9:45 AM",
+        "title": "Fast from the Start",
+        "author": "Jeffrey &amp; Tobias"
+      },
+      {
+        "time": "10:10 AM",
+        "title": "How to Teach Angular to your kids",
+        "author": "Katya Eames"
+      },
+      {
+        "time": "10:18 AM",
+        "title": "ngModelOptions in 5 minutes",
+        "author": "Kent C. Dodds"
+      },
+      {
+        "time": "10:26 AM",
+        "title": "Machine Learning",
+        "author": "Ari Lerner"
+      },
+      {
+        "time": "10:35 AM",
+        "title": "Material Design UX",
+        "author": "Kelly Knight"
+      },
+      {
+        "time": "11:00 AM",
+        "title": "Material Design Technology",
+        "author": "Thomas &amp; Matias"
+      },
+      {
+        "time": "11:25 AM",
+        "title": "i18n",
+        "author": "Chirayu &amp; Pascal"
+      },
+      {
+        "time": "11:50 AM",
+        "title": "Lunch"
+      },
+      {
+        "time": "1:20 PM",
+        "title": "How to build stuff",
+        "author": "Misko &amp; Rado"
+      },
+      {
+        "time": "1:45 PM",
+        "title": "StyleGuide",
+        "author": "John Papa &amp; Todd Motto"
+      },
+      {
+        "time": "2:10 PM",
+        "title": "New Router",
+        "author": "Brian Ford"
+      },
+      {
+        "time": "2:35 PM",
+        "title": "$asqwatch is real",
+        "author": "Willam Scott Moss"
+      },
+      {
+        "time": "3:00 PM",
+        "title": "Snack Break"
+      },
+      {
+        "time": "3:30 PM",
+        "title": "Platforms in Angular",
+        "author": "Jen Bourey"
+      },
+      {
+        "time": "3:55 PM",
+        "title": "TypeScript &amp; ES6",
+        "author": "Dan Wahlin &amp; Andrew Connell"
+      },
+      {
+        "time": "4:20 PM",
+        "title": "(super)Power management",
+        "author": "Igor Minar"
+      },
+      {
+        "time": "4:45 PM",
+        "title": "More Angular 2.0",
+        "author": "Googlers"
+      },
+      {
+        "time": "5:10 PM",
+        "title": "Angular Team Panel/QA",
+        "author": "Googlers"
+      },
+      {
+        "time": "5:55 PM",
+        "title": "Parting Words",
+        "author": "Organizers &amp; Angular Team"
+      },
+      {
+        "time": "7:00 PM",
+        "title": "Game Night"
+      },
+      {
+        "time": "10:00 PM",
+        "title": "Game Night Ends"
+      }
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+}
+ 
+.Schedule {
+  background-color: #1D9C5A;
+  font: 16px Lato;
+  color: #FFF;
+}
+
+.Header {
+  padding: 32px;
+  background-color: #FFF;
+  position: relative;
+  text-align: center;
+}
+
+.Legend {
+  display: flex;
+  color: #757575;
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  align-items: center;
+}
+
+.Days {
+  display: flex;
+  padding: 16px 0;
+}  
+
+.Day {
+  flex: 1;
+  padding: 0 16px;
+}
+
+.Day__title {
+  font-weight: lighter;
+  font-size: 32px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+  text-align: center;
+  padding-bottom: 16px;
+}
+
+.DaySchedule__item {
+  display: flex;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.DaySchedule__time {
+  text-align: right;
+  flex-basis: 80px;
+  padding-right: 16px;
+}
+
+.DaySchedule__title {
+  font-weight: lighter;
+  flex: 1;
+}
+
+.DaySchedule__author {
+  color: rgba(255, 255, 255, 0.4);
+  margin-right: 8px;
+}
+
+.DaySchedule__extra {
+  width: 8px;
+  height: 8px;
+  margin-right: 8px;
+  background-color: #F3B329;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+@media (max-width: 1200px) {
+  .Days {
+    flex-direction: column;
+  }
+
+  .Day__title {
+    padding-top: 16px;
+  }
+
+  .Day:first-child .Day__title {
+    padding-top: 0;
+  }
+  
+  .Legend {
+    top: auto;
+    bottom: 16px;
+  }
+}
