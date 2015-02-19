@@ -32,12 +32,44 @@
         "extra": true
       },
       {
-        "time": "7:00 PM",
-        "title": "Hacknight"
+        "time": "7:00 PM - 10:00 PM",
+        "title": "Building Microsoft Office Apps with AngularJS Hackathon"
       },
       {
-        "time": "10:00 PM",
-        "title": "Hacknight Ends"
+        "time": "7:00 PM - 10:00 PM",
+        "title": "Lightning Talks"
+      },
+      {
+        "time": "7:00 PM - 10:00 PM",
+        "title": "Open Spaces"
+      },
+      {
+        "time": "7:00 PM - 7:45 PM",
+        "title": "Introduction to RethinkDB: realtime apps without database polling"
+      },
+      {
+        "time": "7:00 PM - 7:25 PM",
+        "title": "Angular-Meteor, Working with the 2 great eco-systems together by Uri Goldshtein"
+      },
+      {
+        "time": "7:30 PM - 7:55 PM",
+        "title": "Isomorphic Angular by Jeff Whelpley"
+      },
+      {
+        "time": "8:00 PM - 8:45 PM",
+        "title": "Back& - Build Angular apps with your own MySQL or PostgreSQL Database"
+      },
+      {
+        "time": "8:00 PM - 8:25 PM",
+        "title": "Animating Angular by Nick Seegmiller"
+      },
+      {
+        "time": "8:30 PM - 8:55 PM",
+        "title": "S.O.L.I.D. Development with AngularFire and D3"
+      },
+      {
+        "time": "9:00 PM - 9:45 PM",
+        "title": "Building An Angular Hack Stack"
       }
     ]
   },
