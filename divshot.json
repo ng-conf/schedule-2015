@@ -1,5 +1,5 @@
 {
-  "name": "schedule",
+  "name": "ng-conf-schedule",
   "root": "public",
   "clean_urls": true,
   "error_page": "error.html"

@@ -7,7 +7,7 @@
         "title": "Registration Opens"
       },
       {
-        "time": "10:00 AM",
+        "time": "10:00 AM - 5:00 PM",
         "title": "Angular Beginning Workshop<br /> Angular Advanced Workshop",
         "extra": true
       },
@@ -17,18 +17,8 @@
         "extra": true
       },
       {
-        "time": "1:00 PM",
+        "time": "1:00 PM - 4:00 PM",
         "title": "Ionic Workshop",
-        "extra": true
-      },
-      {
-        "time": "4:00 PM",
-        "title": "Ionic Workshop Ends",
-        "extra": true
-      },
-      {
-        "time": "5:00 PM",
-        "title": "Angular Beginning Workshop Ends<br>Angular Advanced Workshop Ends",
         "extra": true
       },
       {
