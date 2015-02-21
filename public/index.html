@@ -25,8 +25,10 @@
       <div class="DaySchedule">
         <div class="DaySchedule__item" ng-repeat="item in day.items">
           <div class="DaySchedule__time">{{item.time}}</div>
-          <div class="DaySchedule__title" ng-bind-html="item.title"></div>
-          <div class="DaySchedule__author" ng-bind-html="item.author" ng-if="item.author"></div>
+          <div class="DaySchedule__title__author">
+            <div class="DaySchedule__title" ng-bind-html="item.title"></div>
+            <div class="DaySchedule__author" ng-bind-html="item.author" ng-if="item.author"></div>
+          </div>
           <div class="DaySchedule__extra" ng-if="item.extra"></div>
         </div>
       </div>

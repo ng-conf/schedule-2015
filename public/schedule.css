@@ -55,6 +55,11 @@ body {
   padding-right: 16px;
 }
 
+.DaySchedule__title__author {
+  display: flex;
+  flex: 1;
+}
+
 .DaySchedule__title {
   font-weight: lighter;
   flex: 1;
@@ -74,6 +79,10 @@ body {
 }
 
 @media (max-width: 1200px) {
+
+  .DaySchedule__title__author {
+    flex-direction: column;
+  }
   .Days {
     flex-direction: column;
   }
