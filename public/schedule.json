@@ -76,29 +76,29 @@
         "author": "Brad Green &amp; Igor Minar"
       },
       {
-        "time": "9:45 AM",
-        "title": "Ionic + Angular: Superpowers for Mobile App Development",
-        "author": "Adam Bradley"
+        "time": "9:50 AM",
+        "title": "State of 1.x",
+        "author": "Pawel Kozlowski &amp; Lucas Galfaso"
       },
       {
-        "time": "10:10 AM",
-        "title": "Angular 1.3 meets Angular 2.0",
-        "author": "Michal Golebiowski"
+        "time": "10:15 AM",
+        "title": "The New Router",
+        "author": "Brian Ford"
       },
       {
-        "time": "10:35 AM",
-        "title": "ngTasty",
-        "author": "Leonardo Zizzamia"
+        "time": "10:40 AM",
+        "title": "Prototyping with Angular? YES!!",
+        "author": "Kelly Knight &amp; Dirk Ginader"
       },
       {
-        "time": "11:00 AM",
-        "title": "Accessibility Made Easy",
-        "author": "Julie"
+        "time": "11:05 AM",
+        "title": "Reactive all the things",
+        "author": "Ben Lesh &amp; Martin Gontovnikas"
       },
       {
-        "time": "11:25 AM",
-        "title": "Badges? We don't need no stinkin' badges!",
-        "author": "Lukas Ruebbelke &amp; Geoff Goodman"
+        "time": "11:30 AM",
+        "title": "Angular Behind The Scenes",
+        "author": "Rodric Haddad"
       },
       {
         "time": "11:50 AM",
@@ -106,33 +106,28 @@
       },
       {
         "time": "1:20 PM",
-        "title": "State of 1.x",
-        "author": "Lucas + Pawel"
+        "title": "ngTasty - Building high performance measurable directives",
+        "author": "Leonardo Zizzamia"
       },
       {
         "time": "1:45 PM",
+        "title": "Supercharge Angular Apps with TypeScript and ES6",
+        "author": "Dan Wahlin &amp; Andrew Connell"
+      },
+      {
+        "time": "2:10 PM",
+        "title": "Community Building How-To: Make More Angular Devs Now",
+        "author": "Judy Tuan"
+      },
+      {
+        "time": "2:35 PM",
         "title": "ng-wat?",
         "author": "Shai Reznik"
       },
       {
-        "time": "1:53 PM",
-        "title": "Run digest cycle in web worker",
-        "author": "Dr. Gleb Bahmutov PhD."
-      },
-      {
-        "time": "2:01 PM",
-        "title": "?",
-        "author": "Googlers"
-      },
-      {
-        "time": "2:10 PM",
-        "title": "Angular Behind the Scenes",
-        "author": "Rodric Haddad"
-      },
-      {
-        "time": "2:35 PM",
-        "title": "Community Building How-To: Make More Angular Devs Now",
-        "author": "Judy Tuan"
+        "time": "2:50 PM",
+        "title": "Accessibility Design Made Easy",
+        "author": "Julie Ralph"
       },
       {
         "time": "3:00 PM",
@@ -140,13 +135,13 @@
       },
       {
         "time": "3:30 PM",
-        "title": "Reactive all the Things",
-        "author": "Ben Lesh &amp; Martin Gontovnikas"
+        "title": "Why Realtime Matters",
+        "author": "James Tamplin"
       },
       {
         "time": "3:55 PM",
-        "title": "Firebase",
-        "author": "James Tamplin"
+        "title": "ngModelOptions in 5 minutes",
+        "author": "Kent C. Dodds"
       },
       {
         "time": "4:20 PM",
@@ -154,18 +149,33 @@
         "author": "Dave Smith"
       },
       {
+        "time": "4:03 PM",
+        "title": "How to Teach Angular to your Kids",
+        "author": "Katya Eames"
+      },
+      {
+        "time": "4:11 PM",
+        "title": "Run digest cycle in web worker",
+        "author": "Dr. Gleb Bahmutov PhD."
+      },
+      {
+        "time": "4:20 PM",
+        "title": "$asqwatch is real",
+        "author": "William Scott Moss"
+      },
+      {
         "time": "4:45 PM",
-        "title": "Building and sharing reusable components",
-        "author": "Jeremy &amp; Team"
+        "title": "Ionic + Angular: Superpowers for Mobile App Development",
+        "author": "Adam Bradley"
       },
       {
         "time": "5:10 PM",
-        "title": "?",
-        "author": "Googlers"
+        "title": "(Super)Power Management",
+        "author": "Igor Minar"
       },
       {
         "time": "5:30 PM",
-        "title": "Dinnery &amp; Activities"
+        "title": "Dinner &amp; Activities"
       }
     ]
   },
@@ -179,42 +189,32 @@
       {
         "time": "9:00 AM",
         "title": "Keynote",
-        "author": "Naomi &amp; Angular Team"
+        "author": "Miško Hevery &amp; Rado Kirov"
       },
       {
-        "time": "9:45 AM",
+        "time": "9:55 AM",
+        "title": "Binding to the Cloud with Falcor",
+        "author": "Jafar Husain"
+      },
+      {
+        "time": "10:20 AM",
+        "title": "TypeScript and Angular 2.0",
+        "author": "Jonathan Turner"
+      },
+      {
+        "time": "10:45 AM",
+        "title": "What's new in ngAnimate",
+        "author": "Matias"
+      },
+      {
+        "time": "11:05 AM",
+        "title": "Building Platforms with Angular",
+        "author": "Jen Bourey"
+      },
+      {
+        "time": "11:30 AM",
         "title": "Fast from the Start",
-        "author": "Jeffrey &amp; Tobias"
-      },
-      {
-        "time": "10:10 AM",
-        "title": "How to Teach Angular to your kids",
-        "author": "Katya Eames"
-      },
-      {
-        "time": "10:18 AM",
-        "title": "ngModelOptions in 5 minutes",
-        "author": "Kent C. Dodds"
-      },
-      {
-        "time": "10:26 AM",
-        "title": "Machine Learning",
-        "author": "Ari Lerner"
-      },
-      {
-        "time": "10:35 AM",
-        "title": "Material Design UX",
-        "author": "Kelly Knight"
-      },
-      {
-        "time": "11:00 AM",
-        "title": "Material Design Technology",
-        "author": "Thomas &amp; Matias"
-      },
-      {
-        "time": "11:25 AM",
-        "title": "i18n",
-        "author": "Chirayu &amp; Pascal"
+        "author": "Jeff Cross &amp; Tobias Bosch"
       },
       {
         "time": "11:50 AM",
@@ -222,23 +222,23 @@
       },
       {
         "time": "1:20 PM",
-        "title": "How to build stuff",
-        "author": "Misko &amp; Rado"
+        "title": "Angular 1.3 meets Angular 2.0",
+        "author": "Michał Gołębiowski"
       },
       {
         "time": "1:45 PM",
-        "title": "StyleGuide",
-        "author": "John Papa &amp; Todd Motto"
+        "title": "Digging into Angular Style Guide Decisions",
+        "author": "John Papa"
       },
       {
         "time": "2:10 PM",
-        "title": "New Router",
-        "author": "Brian Ford"
+        "title": "Better i18n for your Angular apps",
+        "author": "Chirayu Krishnappa &amp; Pascal Precht"
       },
       {
         "time": "2:35 PM",
-        "title": "$asqwatch is real",
-        "author": "Willam Scott Moss"
+        "title": "Badges? We don't need no stinkin' badges!",
+        "author": "Lukas Ruebbelke &amp; Geoff Goodman"
       },
       {
         "time": "3:00 PM",
@@ -246,23 +246,23 @@
       },
       {
         "time": "3:30 PM",
-        "title": "Platforms in Angular",
-        "author": "Jen Bourey"
+        "title": "Build an Angular Material App",
+        "author": "Thomas Burleson"
       },
       {
         "time": "3:55 PM",
-        "title": "TypeScript &amp; ES6",
-        "author": "Dan Wahlin &amp; Andrew Connell"
+        "title": "Angular + React = Speed",
+        "author": "Dave Smith"
       },
       {
         "time": "4:20 PM",
-        "title": "(super)Power management",
-        "author": "Igor Minar"
+        "title": "Custom Content: Template Insertion in Web Components and Angular",
+        "author": "Kara Erickson &amp; Rachael L Moore"
       },
       {
         "time": "4:45 PM",
-        "title": "More Angular 2.0",
-        "author": "Googlers"
+        "title": "Change Detection Reinvented",
+        "author": "Victor Savkin"
       },
       {
         "time": "5:10 PM",
