@@ -8,6 +8,15 @@ body {
   color: #FFF;
 }
 
+.Schedule a {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.Schedule a[href]:hover {
+  text-decoration: underline;
+}
+
 .Header {
   padding: 32px;
   background-color: #FFF;
