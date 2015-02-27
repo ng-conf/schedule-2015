@@ -73,7 +73,7 @@
       },
       {
         "time": "9:00 AM",
-        "title": "Keynote",
+        "title": "Welcome",
         "author": "Brad Green &amp; Igor Minar"
       },
       {
@@ -107,12 +107,12 @@
       },
       {
         "time": "1:20 PM",
-        "title": "Fast from the Start",
-        "author": "Jeff Cross &amp; Tobias Bosch"
+        "title": "ngTasty",
+        "author": "Leonardo Zizzamia"
       },
       {
         "time": "1:45 PM",
-        "title": "Supercharge Angular Apps with TypeScript and ES6",
+        "title": "TypeScript and ES6",
         "author": "Dan Wahlin &amp; Andrew Connell"
       },
       {
@@ -145,11 +145,6 @@
         "author": "Kent C. Dodds"
       },
       {
-        "time": "4:20 PM",
-        "title": "Angular + React = Speed",
-        "author": "Dave Smith"
-      },
-      {
         "time": "4:03 PM",
         "title": "How to Teach Angular to your Kids",
         "author": "Katya Eames"
@@ -176,7 +171,11 @@
       },
       {
         "time": "5:30 PM",
-        "title": "Dinner &amp; Activities"
+        "title": "Dinner"
+      },
+      {
+        "time": "8:00 PM",
+        "title": "Amazing Party You Won't Want To Miss"
       }
     ]
   },
@@ -205,7 +204,7 @@
       {
         "time": "10:45 AM",
         "title": "What's new in ngAnimate",
-        "author": "Matias"
+        "author": "Matias Niemelä"
       },
       {
         "time": "11:05 AM",
@@ -214,8 +213,8 @@
       },
       {
         "time": "11:30 AM",
-        "title": "ngTasty - Building high performance measurable directives",
-        "author": "Leonardo Zizzamia"
+        "title": "Fast from the Start",
+        "author": "Jeff Cross &amp; Tobias Bosch"
       },
       {
         "time": "11:50 AM",
