@@ -11,6 +11,7 @@ body {
 .Schedule a {
   color: #FFF;
   text-decoration: none;
+  font-weight: bold;
 }
 
 .Schedule a[href]:hover {
@@ -49,11 +50,12 @@ body {
   border-bottom: 1px solid rgba(255, 255, 255, 0.25);
   text-align: center;
   padding-bottom: 16px;
+  color: #444;
 }
 
 .DaySchedule__item {
   display: flex;
-  align-items: center;
+  align-items: top;
   padding: 8px 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.25);
 }
@@ -62,21 +64,26 @@ body {
   text-align: right;
   flex-basis: 150px;
   padding-right: 16px;
+  color: #444;
 }
 
 .DaySchedule__title__author {
-  display: flex;
   flex: 1;
 }
 
 .DaySchedule__title {
   font-weight: lighter;
   flex: 1;
+  float: left;
+  display: block;
 }
 
 .DaySchedule__author {
   color: rgba(255, 255, 255, 0.4);
   margin-right: 8px;
+  float: left;
+  clear: both;
+  margin-top: 5px;
 }
 
 .DaySchedule__extra {
