@@ -3,9 +3,7 @@ var schedule = angular.module('schedule', ['ngRoute']);
 schedule.config(function($routeProvider, $sceProvider, $locationProvider) {
   $sceProvider.enabled(false);
   
-  $locationProvider.html5Mode(true);
-  
-  console.log("$routeProvider", $routeProvider);
+  $locationProvider.html5Mode(false);
   
   $routeProvider.when('/details/3', {
     controller: 'DetailsCtrl',
