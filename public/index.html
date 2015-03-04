@@ -2,37 +2,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<base href="/">
 	<meta charset="UTF-8">
 	<title>ng-conf 2015 Schedule</title>
   <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="schedule.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.0-beta.3/angular.min.js"></script>
-  <script src="schedule.js"></script>
 </head>
-<body class="Schedule" ng-app="schedule" ng-controller="ScheduleCtrl as ctrl">
-  <div class="Header">
-    <img src="logo.svg" alt="ng-conf" />
-
-    <div class="Legend">
-      <div class="Legend__key DaySchedule__extra"></div>
-      <div class="Legend__key">Requires Extra Ticket</div>
-    </div>
-  </div>
-  <div class="Days">
-    <div class="Day" ng-repeat="day in ctrl.schedule">
-      <div class="Day__title">{{day.day}}</div>
-      <div class="DaySchedule">
-        <div class="DaySchedule__item" ng-repeat="item in day.items">
-          <div class="DaySchedule__time">{{item.time}}</div>
-          <div class="DaySchedule__title__author">
-            <a ng-href="{{item.link}}" class="DaySchedule__title" ng-bind-html="item.title"></a>
-            <div class="DaySchedule__author" ng-bind-html="item.author" ng-if="item.author"></div>
-          </div>
-          <div class="DaySchedule__extra" ng-if="item.extra"></div>
-        </div>
-      </div>
-    </div>
-  </div>
+<body class="Schedule" ng-app="schedule">
+	woot {{2 + 1}}
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.0-beta.5/angular.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.0-beta.5/angular-route.min.js"></script>
+  <script src="schedule.js"></script>
 </body>
 </html>
