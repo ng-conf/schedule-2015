@@ -185,10 +185,9 @@
       },
       {
         "time": "5:10 PM",
-        "title": "(Super)Power Management",
-        "author": "Igor Minar",
-        "key": "super-power-management"
-        
+        "title": "Angular Behind The Scenes",
+        "author": "Rodric Haddad",
+        "key": "angular-behind-the-scenes"
       },
       {
         "time": "5:30 PM",
@@ -289,9 +288,9 @@
       },
       {
         "time": "4:20 PM",
-        "title": "Angular Behind The Scenes",
-        "author": "Rodric Haddad",
-        "key": "angular-behind-the-scenes"
+        "title": "(Super)Power Management",
+        "author": "Igor Minar",
+        "key": "super-power-management"
       },
       {
         "time": "4:45 PM",
