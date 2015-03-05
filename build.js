@@ -24,10 +24,9 @@ schedule = schedule.map(function(day){
     if (item.key){
       var session = _.find(submissions, {key: item.key});
       if (session){
-        item = _.extend(item, session)
+        item = _.extend(item, session);
+        item.link = "/#details/" + item.key;
       }
-      
-      item.link = "/#details/" + item.key;
     }
     
     return item;
