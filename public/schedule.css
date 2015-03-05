@@ -115,3 +115,22 @@ body {
     bottom: 16px;
   }
 }
+
+.details{
+  padding: 20px;
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+.twitter{
+  margin-left: 10px;
+  color: #59adec !important;
+}
+
+.speaker__name{
+  display: inline-block;
+}
+
+.speaker img{
+  max-width: 500px;
+}

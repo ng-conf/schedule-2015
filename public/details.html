@@ -1,1 +1,21 @@
-<h1>Hello Dave!</h1>
+<div class="details">
+  <h1>{{session.title}}</h1>
+  <p>{{session.details.Session.Description}}</p>
+  
+  <div class="speaker">
+    <h2 class="speaker__name">{{session.details.Speaker.name}}</h2>
+    <a class="twitter" href="https://twitter.com/{{session.details.Speaker.twitter}}">@{{session.details.Speaker.twitter}}</a>
+    <br/>
+    <img ng-src="https://raw.githubusercontent.com/ng-conf/submissions-2015/master/{{session.key}}/profile.jpg"></img>
+    <p>{{session.details.Speaker.bio}}</p>
+  </div>
+  
+  <div class="speaker" ng-if="session.details.Speaker2">
+    <h2 class="speaker__name">{{session.details.Speaker2.name}}</h2>
+    <a class="twitter" href="https://twitter.com/{{session.details.Speaker2.twitter}}">@{{session.details.Speaker2.twitter}}</a>
+    <br/>
+    <img ng-src="https://raw.githubusercontent.com/ng-conf/submissions-2015/master/{{session.key}}/profile2.jpg"></img>
+    <p>{{session.details.Speaker2.bio}}</p>
+  </div>
+  
+</div>
